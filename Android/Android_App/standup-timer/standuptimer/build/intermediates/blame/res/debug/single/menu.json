@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/meeting_details_options_menu.xml",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/menu/meeting_details_options_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/meetings_context_menu.xml",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/menu/meetings_context_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/meetings_context_menu.xml",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/menu/meetings_context_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/team_details_options_menu.xml",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/menu/team_details_options_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/team_details_options_menu.xml",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/menu/team_details_options_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/teams_context_menu.xml",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/menu/teams_context_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/teams_options_menu.xml",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/menu/teams_options_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/meeting_details_options_menu.xml",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/menu/meeting_details_options_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/teams_options_menu.xml",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/menu/teams_options_menu.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/menu/teams_context_menu.xml",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/menu/teams_context_menu.xml"
+    }
+]

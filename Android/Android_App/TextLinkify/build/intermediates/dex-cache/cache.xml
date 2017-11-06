@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/build/intermediates/pre-dexed/debug/android-support-v4_ed8bc48d1cc10bc37fc099c50d589dc622dadbf7.jar" />
+    </item>
+    <item
+        jar="/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/build/intermediates/pre-dexed/debug/android-support-v4_51ab6d76488d2cd2c8af3e5468f157eb146167cf.jar" />
+    </item>
+
+</items>

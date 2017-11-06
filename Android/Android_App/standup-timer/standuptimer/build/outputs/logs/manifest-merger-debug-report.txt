@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:3:4-48
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:4:28-53
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:4:4-27
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:5:4-26:18
+	android:label
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:5:47-79
+	android:debuggable
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:5:80-105
+	android:icon
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:5:17-46
+activity#net.johnpwood.android.standuptimer.ConfigureStandupTimer
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:7:7-12:18
+	android:label
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:7:55-87
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:7:17-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:8:10-11:26
+action#android.intent.action.MAIN
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:9:13-65
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:9:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:10:13-73
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:10:23-70
+activity#net.johnpwood.android.standuptimer.About
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:14:7-15:56
+	android:label
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:14:39-74
+	android:theme
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:15:10-53
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:14:17-38
+activity#net.johnpwood.android.standuptimer.Help
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:17:7-18:56
+	android:label
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:17:38-72
+	android:theme
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:18:10-53
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:17:17-37
+activity#net.johnpwood.android.standuptimer.StandupTimer
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:20:7-81
+	android:label
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:20:46-78
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:20:17-45
+activity#net.johnpwood.android.standuptimer.TeamDetails
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:21:7-95
+	android:theme
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:21:45-92
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:21:17-44
+activity#net.johnpwood.android.standuptimer.MeetingDetails
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:22:7-90
+	android:label
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:22:48-87
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:22:17-47
+activity#net.johnpwood.android.standuptimer.Prefs
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:23:7-80
+	android:label
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:23:39-77
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:23:17-38
+activity#net.johnpwood.android.standuptimer.TeamList
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:24:7-79
+	android:label
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:24:42-76
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:24:17-41
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:27:4-67
+	android:name
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:27:21-64
+uses-sdk
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:28:4-71
+	android:targetSdkVersion
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:28:40-68
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:28:14-39
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:29:4-53
+	android:smallScreens
+		ADDED from /Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/AndroidManifest.xml:29:22-50

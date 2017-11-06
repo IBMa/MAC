@@ -1,0 +1,838 @@
+[
+    {
+        "outputFile": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 57,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 55,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 69,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 42,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 43,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 44,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 42,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 41,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 67,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 48,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 48,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endLine": 14,
+                    "endColumn": 27,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endLine": 21,
+                        "endColumn": 27,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endLine": 24,
+                    "endColumn": 13,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endLine": 30,
+                        "endColumn": 13,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endLine": 36,
+                    "endColumn": 75,
+                    "endOffset": 1867
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endLine": 33,
+                        "endColumn": 75,
+                        "endOffset": 1670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1872,
+                    "endLine": 41,
+                    "endColumn": 73,
+                    "endOffset": 2204
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1675,
+                        "endLine": 38,
+                        "endColumn": 70,
+                        "endOffset": 1985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2209,
+                    "endColumn": 50,
+                    "endOffset": 2255
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2260,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2406,
+                    "endColumn": 59,
+                    "endOffset": 2461
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2466,
+                    "endColumn": 52,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2519,
+                    "endColumn": 26,
+                    "endOffset": 2541
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2546,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2737
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2742,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3015
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 57,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 55,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 69,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 42,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 43,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 44,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 42,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 41,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 67,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 48,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 48,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endLine": 14,
+                    "endColumn": 27,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endLine": 21,
+                        "endColumn": 27,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endLine": 24,
+                    "endColumn": 13,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endLine": 30,
+                        "endColumn": 13,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endLine": 36,
+                    "endColumn": 75,
+                    "endOffset": 1867
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endLine": 33,
+                        "endColumn": 75,
+                        "endOffset": 1670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1872,
+                    "endLine": 41,
+                    "endColumn": 73,
+                    "endOffset": 2204
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1675,
+                        "endLine": 38,
+                        "endColumn": 70,
+                        "endOffset": 1985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2209,
+                    "endColumn": 50,
+                    "endOffset": 2255
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2260,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2406,
+                    "endColumn": 59,
+                    "endOffset": 2461
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2466,
+                    "endColumn": 52,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2519,
+                    "endColumn": 26,
+                    "endOffset": 2541
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2546,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2737
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2742,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3015
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

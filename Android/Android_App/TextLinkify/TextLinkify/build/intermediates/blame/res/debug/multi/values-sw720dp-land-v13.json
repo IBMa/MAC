@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/TextLinkify/TextLinkify/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 58,
+                        "endOffset": 858
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/TextLinkify/TextLinkify/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 58,
+                        "endOffset": 858
+                    }
+                }
+            }
+        ]
+    }
+]

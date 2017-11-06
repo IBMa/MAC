@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+'use strict';
+
+var authorize = require('./build/index.js');
+
+authorize();
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImF1dGhvcml6ZS1pb3MuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBLFlBQVksQ0FBQzs7QUFFYixJQUFJLFNBQVMsR0FBRyxPQUFPLENBQUMsa0JBQWtCLENBQUMsQ0FBQzs7QUFFNUMsU0FBUyxFQUFFLENBQUMiLCJmaWxlIjoiYXV0aG9yaXplLWlvcy5qcyIsInNvdXJjZXNDb250ZW50IjpbIlxuJ3VzZSBzdHJpY3QnO1xuXG52YXIgYXV0aG9yaXplID0gcmVxdWlyZSgnLi9idWlsZC9pbmRleC5qcycpO1xuXG5hdXRob3JpemUoKTtcbiJdLCJzb3VyY2VSb290IjoiLi4ifQ==

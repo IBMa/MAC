@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+'use strict';
+
+require('./build/bin/appium-doctor');
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcGl1bS1kb2N0b3IuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFFQSxPQUFPLENBQUMsMkJBQTJCLENBQUMsQ0FBQyIsImZpbGUiOiJhcHBpdW0tZG9jdG9yLmpzIiwic291cmNlc0NvbnRlbnQiOlsiXG5cbnJlcXVpcmUoJy4vYnVpbGQvYmluL2FwcGl1bS1kb2N0b3InKTtcbiJdLCJzb3VyY2VSb290IjoiLi4ifQ==

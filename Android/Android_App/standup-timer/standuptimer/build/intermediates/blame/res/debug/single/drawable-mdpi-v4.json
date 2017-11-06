@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/drawable-mdpi-v4/team.png",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/drawable-mdpi/team.png"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/drawable-mdpi-v4/team.png",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/drawable-mdpi/team.png"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/drawable-mdpi/icon.png"
+    }
+]

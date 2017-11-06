@@ -1,0 +1,12 @@
+{
+  "name": "AppiumTest",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node appiumUserInteraction.js"
+  },
+  "dependencies": {
+    "appium-doctor": "^1.4.3",
+    "wd": "^1.2.0"
+  }
+}

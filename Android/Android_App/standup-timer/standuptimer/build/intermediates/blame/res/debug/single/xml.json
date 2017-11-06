@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/Users/aliasghar/Documents/Github/IBMa/MAC-Android-Test/AS_TC/Samples/standup-timer/standuptimer/src/main/res/xml/settings.xml"
+    },
+    {
+        "merged": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/Users/aliasghar/Documents/MAC-CASCON2017/Android/Android_App/standup-timer/standuptimer/src/main/res/xml/settings.xml"
+    }
+]
